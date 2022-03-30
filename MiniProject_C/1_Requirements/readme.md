@@ -149,7 +149,7 @@ limited  access.
 
 |ID|Description|HR ID|Status|
 |--|-----------|-----|------|
-|LR01|Main menu should consist 4 options: 1.Reseve a ticket, 2.Bus availability, 3.Seats booking, 4.Displays ticket|HR01Implemented|
+|LR01|Main menu should consist 4 options: 1.Reseve a ticket, 2.Bus availability, 3.Seats booking, 4.Displays ticket|HR01|Implemented|
 LR02|user will check the tickets and reserve if empty|HR01|Implemented|
 LR03|user will check the bus availability and availability of seats|HR03|Implemented|
 LR04|user will book the seats easily if there are empty|HR04|Implemented|
