@@ -51,3 +51,13 @@ Online Bus Ticket Reservation System is so simple to use. In order to use the ap
 * C/C++ interpreter Ch 5.0
 
 # OBJECTIVE
+
+The Bus ticket reservation system is currently maintaining the project Transport Company’s process manually which is a very time consuming process. It deals with transport industry’s ticket booking and transport maintenance, so it becomes a very tedious job for the ticket booking transporter to look after these particulars to complete the  task at right time
+
+a) This system will lead to increase in the  ticket booking efficiency of the project Staff and members of the Ticket Booking Agency with little throughput.
+
+b) This system project is made as user friendly as possible so that any one can use it with little knowledge of system computers.
+
+c) The ticket booking project will reduce the  ticket booking tedious job of system  paperwork by keeping all the project details of bus ticket booking, cancelling tickets are stored in the form database in computer’s hard disk.
+
+d)  The objective of my project is to make easy the  ticket booking project system of Ticket Booking Agency simple, reliable, user friendly, and corrective. Moreover less time consuming as compared to manual work. 
