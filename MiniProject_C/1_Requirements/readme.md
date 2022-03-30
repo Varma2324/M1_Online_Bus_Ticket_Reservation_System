@@ -106,4 +106,24 @@ This application was developed in C language to avoid the complexity and to keep
 <img src="https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/blob/main/MiniProject_C/1_Requirements/Swot%20analysis.jpg" />
 <br>
 
+# Strengths
+
+* We can access it from anywhere.
+* It provides the easy accessibility to book the ticket through online.
+* It is available for 24/7.
+
+# Weaknesses
+
+* Limited cases are stored in the structure.
+* Needs graphical user interface.
+
+
+# Opportunities
+
+* It can provides the online bus tickets through  world wide and also for availability details.
+
+# Threats
+
+* limited  access. 
+  
 
