@@ -61,3 +61,12 @@ b) This system project is made as user friendly as possible so that any one can 
 c) The ticket booking project will reduce the  ticket booking tedious job of system  paperwork by keeping all the project details of bus ticket booking, cancelling tickets are stored in the form database in computer’s hard disk.
 
 d)  The objective of my project is to make easy the  ticket booking project system of Ticket Booking Agency simple, reliable, user friendly, and corrective. Moreover less time consuming as compared to manual work. 
+
+# STEPS
+
+```
+'Ticket Reservation Details' - Reserve a ticket, View all bus tickets, Ticket display.
+Reserve a ticket- reserving a bus ticket through online.
+Availability- checks the buses and seats availability.
+Ticket Display- displays the ticket with user details.
+```
