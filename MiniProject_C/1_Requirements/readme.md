@@ -99,3 +99,7 @@ We can use this at different places and this is platform independent, it will wo
 ```
 This application was developed in C language to avoid the complexity and to keep it simple. 
 ```
+
+# SWOT ANALYSIS
+
+
