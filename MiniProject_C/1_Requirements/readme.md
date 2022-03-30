@@ -108,23 +108,29 @@ This application was developed in C language to avoid the complexity and to keep
 
 # Strengths
 
-* We can access it from anywhere.
-* It provides the easy accessibility to book the ticket through online.
-* It is available for 24/7.
+```
+We can access it from anywhere.
+It provides the easy accessibility to book the ticket through online.
+It is available for 24/7.
+```
 
 # Weaknesses
 
-* Limited cases are stored in the structure.
-* Needs graphical user interface.
-
+```
+Limited cases are stored in the structure.
+Needs graphical user interface.
+```
 
 # Opportunities
 
-* It can provides the online bus tickets through  world wide and also for availability details.
+```
+It can provides the online bus tickets through  world wide and also for availability details.
+```
 
 # Threats
-
-* limited  access.
+```
+limited  access.
+```
 
 # Detail Requirements
 
@@ -141,9 +147,9 @@ This application was developed in C language to avoid the complexity and to keep
 
 |ID|Description|HR ID|Status|
 |--|-----------|-----|------|
-LR01	Main menu should consist 4 options: 1.Covid details, 2.Vaccinated details, 3.Covid status 4.Vaccinated Status	HR01	Implemented
-LR02	Reading user input to select particular option	HR01	Implemented
-LR03	Output screen will display the Covid cases	HR03	Implemented
-LR04	Read user input from the vaccinated details	HR04	Implemented
-LR05	Should display final Covid and vaccinated details	HR02	Implemented
+|LR01|Main menu should consist 4 options: 1.Reseve a ticket, 2.Bus availability, 3.Seats booking, 4.Displays ticket|HR01	Implemented|
+LR02|user will check the tickets and reserve if empty|HR01	Implemented|
+LR03|user will check the bus availability and availability of seats|HR03	Implemented|
+LR04|user will book the seats easily if there are empty|HR04	Implemented|
+LR05|after performing the all operations of booking then it displays the user ticket details|HR02	Implemented|
 
