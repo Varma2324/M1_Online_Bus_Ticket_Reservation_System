@@ -42,3 +42,10 @@ Online Bus Ticket Reservation System is so simple to use. In order to use the ap
 <br>
 <img height="700" src="https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/blob/main/MiniProject_C/1_Requirements/uml1.png" />
 <br>
+
+# TOOLS USED
+
+* GCC Compiler
+* G-Edit
+* GNU/GDB debugger
+* C/C++ interpreter Ch 5.0
