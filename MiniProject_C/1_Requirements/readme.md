@@ -70,3 +70,13 @@ Reserve a ticket- reserving a bus ticket through online.
 Availability- checks the buses and seats availability.
 Ticket Display- displays the ticket with user details.
 ```
+
+# 4W's and 1H
+
+#WHO
+```
+Anyone can use this by accessing its main menu and need to choose there required field of choice and need to enter the 
+ value to get there desired output.
+ ```
+
+
