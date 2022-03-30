@@ -78,5 +78,24 @@ Ticket Display- displays the ticket with user details.
 Anyone can use this by accessing its main menu and need to choose there required field of choice and need to enter the 
  value to get there desired output.
  ```
+ 
+ # WHAT
+ ```
+ It's an online bus ticket reservation system to book the ticket through  online, which will help user to identify the bus availabilities and it is also easily access 
+and easy to book the ticket.
+```
 
+# WHEN
+```
+It is available to user 24X7, 365 days without any issues and works infinite times.
+```
 
+# WHERE
+```
+We can use this at different places and this is platform independent, it will work in any platform. 
+```
+
+# HOW
+```
+This application was developed in C language to avoid the complexity and to keep it simple. 
+```
