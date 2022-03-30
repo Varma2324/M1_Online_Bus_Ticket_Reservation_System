@@ -39,3 +39,6 @@ Online Bus Ticket Reservation System is so simple to use. In order to use the ap
 
 * ticket display
 
+<br>
+<img height="700" src="https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/blob/main/MiniProject_C/1_Requirements/uml1.png" />
+<br>
