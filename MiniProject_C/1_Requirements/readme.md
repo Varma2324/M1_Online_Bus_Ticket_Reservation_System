@@ -124,6 +124,10 @@ This application was developed in C language to avoid the complexity and to keep
 
 # Threats
 
-* limited  access. 
+* limited  access.
+
+# Detail Requirements
+
+# High Level Requirements
   
 
