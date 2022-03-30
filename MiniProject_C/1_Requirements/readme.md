@@ -136,5 +136,14 @@ This application was developed in C language to avoid the complexity and to keep
 |HR02|Bus availability|Implemented|
 |HR03|Booking Seats|Implemented|
 |HR04|Ticket display|Implemented|
-  
+ 
+# Low Level Requirements
+
+|ID|Description|HR ID|Status|
+|--|-----------|-- --|------|
+LR01	Main menu should consist 4 options: 1.Covid details, 2.Vaccinated details, 3.Covid status 4.Vaccinated Status	HR01	Implemented
+LR02	Reading user input to select particular option	HR01	Implemented
+LR03	Output screen will display the Covid cases	HR03	Implemented
+LR04	Read user input from the vaccinated details	HR04	Implemented
+LR05	Should display final Covid and vaccinated details	HR02	Implemented
 
