@@ -31,3 +31,13 @@ Limited cases are stored in the structure.
 ```
 Problem Statement ---> Research ---> Plan --->Design --->Implement--->Testing --->Execute.
 ```
+# Defining our System
+
+Online Bus Ticket Reservation System is so simple to use. In order to use the application, use make run command and then, you will have three options to select And with this three options user can display the user ticket details.
+
+*Reserve a ticket
+
+*view all bus available
+
+*ticket display
+
