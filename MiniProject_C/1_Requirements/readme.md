@@ -129,5 +129,11 @@ This application was developed in C language to avoid the complexity and to keep
 # Detail Requirements
 
 # High Level Requirements
+
+|ID|Description|Status|
+|HR01|Reserve a ticket|Implemented|
+|HR02|Bus availability|Implemented|
+|HR03|Booking Seats|Implemented|
+|HR04|Ticket display|Implemented|
   
 
