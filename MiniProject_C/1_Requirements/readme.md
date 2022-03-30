@@ -140,7 +140,7 @@ This application was developed in C language to avoid the complexity and to keep
 # Low Level Requirements
 
 |ID|Description|HR ID|Status|
-|--|-----------|-- --|------|
+|--|-----------|-----|------|
 LR01	Main menu should consist 4 options: 1.Covid details, 2.Vaccinated details, 3.Covid status 4.Vaccinated Status	HR01	Implemented
 LR02	Reading user input to select particular option	HR01	Implemented
 LR03	Output screen will display the Covid cases	HR03	Implemented
