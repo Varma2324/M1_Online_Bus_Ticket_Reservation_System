@@ -49,3 +49,5 @@ Online Bus Ticket Reservation System is so simple to use. In order to use the ap
 * G-Edit
 * GNU/GDB debugger
 * C/C++ interpreter Ch 5.0
+
+# OBJECTIVE
