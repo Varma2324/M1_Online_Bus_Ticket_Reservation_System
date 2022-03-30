@@ -102,4 +102,8 @@ This application was developed in C language to avoid the complexity and to keep
 
 # SWOT ANALYSIS
 
+<br>
+<img src="https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/blob/main/MiniProject_C/1_Requirements/Swot%20analysis.jpg" />
+<br>
+
 
