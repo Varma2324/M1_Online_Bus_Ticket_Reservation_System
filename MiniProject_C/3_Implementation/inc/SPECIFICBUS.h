@@ -1,3 +1,25 @@
+/**@file SPECIFICBUS.h
+ *@brief In this the specific bus function will dispaly the detalis of bus number and bus destination,bus name and bus timings to the user
+ *@bug No know bugs.
+ *
+ */ 
+ 
+
+#include<stdio.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<string.h>
+
+
+
+void reservation(void);
+void viewdetails(void);
+void printticket(char name[],int,int,float);
+void specificbus(int);
+float charge(int,int);
+
+
+
 /* specificbus function*/
 void specificbus(int bus_num)
 {
