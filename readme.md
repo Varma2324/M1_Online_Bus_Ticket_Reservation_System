@@ -24,4 +24,4 @@
 
 [![Build CI - Windows](https://api.codiga.io/project/32367/score/svg) 
 
-https://api.codiga.io/project/32367/status/svg
+[![Build CI - Windows](https://api.codiga.io/project/32367/status/svg)
