@@ -57,7 +57,7 @@ int main()
 		case 2:
 			viewdetails();
 			printf("\n\nPress any key to go to Main Menu..");
-			getch();
+			//getch();
 			break;
 		case 3:
 			return(0);
@@ -101,7 +101,7 @@ void reservation(void)
 
 	printf("\nEnter Your Name:> ");
 	fflush(stdin);
-	gets(passdetails.name);
+	fgets(passdetails.name);
 	printf("\nEnter Number of seats:> ");
 	scanf("%d",&passdetails.num_of_seats);
 	printf("\n\n>>Press Enter To View Available Bus<< ");
