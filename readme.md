@@ -16,3 +16,5 @@
 [![Contribution Check - Git Inspector](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/git_inspector.yml)
 
 [![Unit testing](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/unit-test.yml)
+
+[![Valgrind](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/valgrind.yml)
