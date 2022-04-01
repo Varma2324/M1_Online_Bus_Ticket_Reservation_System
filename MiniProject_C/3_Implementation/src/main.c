@@ -289,7 +289,7 @@ void login()
 	printf(" \n                       ENTER PASSWORD:-");
 	while(i<10)
 	{
-	    pword[i]=getch();
+	    pword[i]=getc();
 	    c=pword[i];
 	    if(c==13) break;
 	    else printf("*");
