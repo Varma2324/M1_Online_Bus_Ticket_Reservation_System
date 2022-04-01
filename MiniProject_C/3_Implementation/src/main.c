@@ -285,11 +285,11 @@ void login()
 
     printf("\n  =======================  LOGIN FORM  =======================\n  ");
     printf(" \n                       ENTER USERNAME:-");
-	scanf("%s", &uname);
+	//scanf("%s", &uname);
 	printf(" \n                       ENTER PASSWORD:-");
 	while(i<10)
 	{
-	    pword[i]=getc();
+	   // pword[i]=getc();
 	    c=pword[i];
 	    if(c==13) break;
 	    else printf("*");
@@ -323,4 +323,5 @@ void login()
 		}
 		//system("cls");
 }
+
 
