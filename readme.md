@@ -5,3 +5,6 @@
 
 
 [![Analysis](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/Analysis.yml)
+
+
+[![Build CI -Linux](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/c-cpp.yml)
