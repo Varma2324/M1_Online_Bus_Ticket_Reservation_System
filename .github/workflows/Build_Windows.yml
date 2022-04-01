@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build
-      run:  make https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/tree/main/MiniProject_C/3_Implementation
+      run:  make MiniProject_C/3_Implementation
