@@ -101,7 +101,7 @@ void reservation(void)
 
 	printf("\nEnter Your Name:> ");
 	fflush(stdin);
-	gets(passdetails.name);
+	//gets(passdetails.name);
 	printf("\nEnter Number of seats:> ");
 	scanf("%d",&passdetails.num_of_seats);
 	printf("\n\n>>Press Enter To View Available Bus<< ");
@@ -310,7 +310,7 @@ void login()
 		a++;
 
 		//getch();
-		system("cls");
+		//system("cls");
 	}
 }
 	while(a<=2);
@@ -321,6 +321,6 @@ void login()
 		//getch();
 
 		}
-		system("cls");
+		//system("cls");
 }
 
