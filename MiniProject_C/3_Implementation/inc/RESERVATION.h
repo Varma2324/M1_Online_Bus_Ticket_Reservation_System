@@ -44,7 +44,7 @@ void reservation(void)
 	printf("\nEnter Number of seats:> ");   /*@param it will take the seats as input(user needed seats)*/
 	scanf("%d",&passdetails.num_of_seats);
 	printf("\n\n>>Press Enter To View Available Bus<< ");
-	getch();
+	//getch();
 	system("cls");
 	viewdetails();   /*@param it will goes to viwedeatils function and print the ticket details*/
 	printf("\n\nEnter bus number:> ");   /*@param it will take the bus number as input*/
@@ -84,5 +84,5 @@ void reservation(void)
 		}
 	}
 	fclose(fp); /*@param here we close the file with the help of fclose function*/
-	getch();
+	//getch();
 }
