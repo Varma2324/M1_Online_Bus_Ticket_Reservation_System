@@ -33,7 +33,7 @@ int main()
 
 
 	printf(" \n Press any key to continue:");
-	getch();
+	//getch();
     system("cls");
 	login();
 	int menu_choice,choice_return;
@@ -105,7 +105,7 @@ void reservation(void)
 	printf("\nEnter Number of seats:> ");
 	scanf("%d",&passdetails.num_of_seats);
 	printf("\n\n>>Press Enter To View Available Bus<< ");
-	getch();
+	//getch();
 	system("cls");
 	viewdetails();
 	printf("\n\nEnter bus number:> ");
@@ -127,7 +127,7 @@ void reservation(void)
 	scanf(" %c",&confirm);
 	if(confirm == 'y')
 	{
-		fprintf(fp,"%s\t\t%d\t\t%d\t\t%.2f\n",&passdetails.name,passdetails.num_of_seats,passdetails.bus_num,charges);
+		fprintf(fp,"%s\t\t%d\t\t%d\t\t%.2f\n", passdetails.name,passdetails.num_of_seats,passdetails.bus_num,charges);
 		printf("==================");
 		printf("\n Reservation Done\n");
 		printf("==================");
@@ -145,7 +145,7 @@ void reservation(void)
 		}
 	}
 	fclose(fp);
-	getch();
+	//getch();
 }
 
 float charge(int bus_num,int num_of_seats)
@@ -301,7 +301,7 @@ void login()
 	{
 	printf("  \n\n\n       WELCOME TO OUR  BUS RESERVATION SYSTEM !! YOUR LOGIN IS SUCCESSFUL");
 	printf("\n\n\n\t\t\t\tPress any key to continue...");
-	getch();
+	//getch();
 	break;
 	}
 	else
@@ -309,7 +309,7 @@ void login()
 		printf("\n        SORRY !!!!  LOGIN IS UNSUCESSFUL");
 		a++;
 
-		getch();
+		//getch();
 		system("cls");
 	}
 }
@@ -318,7 +318,7 @@ void login()
 	{
 		printf("\nSorry you have entered the wrong username and password for four times!!!");
 
-		getch();
+		//getch();
 
 		}
 		system("cls");
