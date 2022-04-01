@@ -101,7 +101,7 @@ void reservation(void)
 
 	printf("\nEnter Your Name:> ");
 	fflush(stdin);
-	fgets(passdetails.name);
+	gets(passdetails.name);
 	printf("\nEnter Number of seats:> ");
 	scanf("%d",&passdetails.num_of_seats);
 	printf("\n\n>>Press Enter To View Available Bus<< ");
