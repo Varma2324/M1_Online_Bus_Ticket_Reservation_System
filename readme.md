@@ -1,5 +1,7 @@
 # M1_Online_Bus_Ticket_Reservation_2022
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e1d0140eed694255b1252dadc688aca3)](https://www.codacy.com/gh/ChallaraoNalam/M1_Student_Management_System_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ChallaraoNalam/M1_Student_Management_System_2022&amp;utm_campaign=Badge_Grade)
+
 
 [![Build CI - Windows](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/Build_Windows.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/Build_Windows.yml)
 
