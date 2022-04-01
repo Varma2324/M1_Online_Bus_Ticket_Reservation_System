@@ -18,3 +18,6 @@
 [![Unit testing](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/unit-test.yml)
 
 [![Valgrind](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Varma2324/M1_Online_Ticket_Booking_2022/actions/workflows/valgrind.yml)
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/628dd112c1484257b9b9e7b21863d56a)](https://www.codacy.com/gh/Varma2324/M1_Online_Ticket_Booking_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Varma2324/M1_Online_Ticket_Booking_2022&amp;utm_campaign=Badge_Grade)
